@@ -1,5 +1,5 @@
 # EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
-## DATE:
+## DATE:24-11-2026
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -24,30 +24,27 @@ The inserted elements update with changes to the original design
 Select the objects to modify then specify the distance or angle. Use set pivot to reposition the manipulator
 
 ## PROCEDURE:
-### STEP 1: 
- Identifying the given model.
 
-### STEP 2: Importing the components.
-Firstly, we import all the necessary parts into the assembly project. Here, we use Finger, gear linkage, Secondary Linkage, Base. For, Importing the components into the project, we use the insert derive option in the Insert>Insert Derive.
+1.Identify the model.
 
-### STEP 3: 
-We place the base model onto the X-Y plane.
+2.Import all the required parts.
 
-### STEP 4: Aligning the components
-Then we align the imported, Gear linkage model, in its respective slot of the base.
-For aligning the component onto the base, we use the align option, available in Modify>Align.
-For aligning the component onto the base, we first select the “from” coordinates then we select the “To” coordinates in the given base model. At first, the model might not align properly, so, we use the flip option to bring the component to the desired position.
+3.Place the base on the X-Y plane.
 
-### STEP 5: 
-We follow the same steps for aligning the components onto their respective      slots on the base component.
+<img width="138" height="153" alt="Screenshot 2026-11-15 134124" src="https://github.com/user-attachments/assets/a261743b-ec94-4576-9680-66cfe442662f" />
 
-### Note: 
-If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
+4.Align the gear linkage with the base.
 
-## INPUT: 
-![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
+5.Adjust the position if needed.
 
-## OUTPUT:
+6.Repeat for all remaining parts.
+
+7.Place all parts correctly.
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
+
+<img width="667" height="705" alt="Screenshot 2026-11-24 232530" src="https://github.com/user-attachments/assets/62c6b5f8-6bdf-4106-a2cf-ea9f7c503e79" />
+
+<img width="988" height="698" alt="Screenshot 2026-11-24 214833" src="https://github.com/user-attachments/assets/8b367d7a-6470-4cf2-91d9-5392353ddc50" />
+
